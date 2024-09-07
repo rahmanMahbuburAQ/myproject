@@ -8,6 +8,10 @@
 7.cd myproject
 8.python manage.py runserver
 
+to run it: pip install djangorestframework then python manage.py runserver   
+
+
+
 To start a Django app on Windows, follow these steps:
 
 ##Step 1: Install Python
