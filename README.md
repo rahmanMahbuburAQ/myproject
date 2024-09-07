@@ -1,4 +1,13 @@
 #### myproject
+1.open Desktop of pc and create a folder named 'django-app'
+2. open vs code and from view oopen a new terminal and terminal is in command prompt.
+3.python -m venv venv
+4..\venv\Scripts\activate
+5.pip install django
+6.django-admin startproject myproject
+7.cd myproject
+8.python manage.py runserver
+
 To start a Django app on Windows, follow these steps:
 
 ##Step 1: Install Python
